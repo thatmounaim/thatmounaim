@@ -33,9 +33,7 @@ I specialize in building robust backends that do all the heavy lifting. I love d
 <br>
     
     
-- 🌱 Creating some Utility Packages for Node (and/or) NestJS
-- 📖 Learning NebulaGraph
-- 🔥 Learning Svelte
+- 🔥 Learning Golang
 </td><td valign="top" width="25%">
 
 <div align="center">
